@@ -15,14 +15,15 @@ Development Environment: Unity 2019.4.8f1
   LEFT: orginal artwork; RIHGT: recreation in 3D
   </br>
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/VeraMonar.png" width="400">
-  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result_final.png" width="400">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result_final2.png" width="400">
 </p>
 
 <p float='left'>
  Some other variations:
   </br>
-  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result1.png" height="300">
-  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result3.png" height="300">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result_final.png" height="270">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result1.png" height="270">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result3.png" height="270">
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result4.png" height="400">
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/result5.png" height="400">
   
