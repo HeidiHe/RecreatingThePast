@@ -30,8 +30,9 @@ Development Environment: Unity 2019.4.8f1
 </p>
 
 ## Week 3: Murial Cooper
-Programming Language: JavaScript
-Development Environment: p5
+Programming Language: JavaScript  
+Development Environment: p5  
+[code here](https://github.com/HeidiHe/RecreatingThePast/blob/main/week3)
 
 ### Results:
 <!-- Original Artwork:           | Recreation in 3D:
