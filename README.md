@@ -39,7 +39,7 @@ Development Environment: p5
 <p float='left'>
   LEFT: orginal artwork; RIHGT: recreation in 3D
   </br>
-  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week1_VeraMolnar/VeraMonar.png" width="400">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week3/original.jpeg" width="400">
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week3/recreat1.png" width="400">
 </p>
 
