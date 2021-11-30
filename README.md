@@ -76,3 +76,10 @@ Development Environment: p5
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/thekiss.jpeg" width="500">
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/recreat1.png" width="500">
 </p>
+<p float='left'>
+ Some other variations:
+  </br>
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/recreat2.png" height="300">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/recreat3.png" height="300">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/recreat4.png" height="300">
+</p>
