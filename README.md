@@ -69,3 +69,10 @@ Development Environment: p5
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week4/recreat9.png" height="300">
 </p>
 
+## Week5: Pixels
+<p float='left'>
+  LEFT: orginal artwork; RIHGT: recreation in 3D
+  </br>
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/thekiss.jpeg" width="500">
+  <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/recreat1.png" width="500">
+</p>
