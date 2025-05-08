@@ -1,5 +1,5 @@
 # RecreatingThePast
-a series of computational art project by class (link here)
+a series of computational art projects
 
 
 ## Week 1: Vera Molnar
