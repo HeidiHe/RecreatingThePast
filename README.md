@@ -35,7 +35,7 @@ Development Environment: p5
 [code here](https://github.com/HeidiHe/RecreatingThePast/blob/main/week3)
 
 ### Results:
-<!-- Original Artwork:           | Recreation in 3D:
+<!-- Original Artwork:           | Recreation in Processing:
 :-------------------------:|:-------------------------: -->
 <p float='left'>
   LEFT: orginal artwork; RIHGT: recreation in 3D
@@ -55,13 +55,14 @@ Development Environment: p5
 
 ## Week 4: Bridge Riley
 <p float='left'>
-  LEFT: orginal artwork; RIHGT: recreation in 3D
+  <h3> orginal artwork: </h3>
   </br>
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week4/original.png" width="400">
+    <h3>recreation in Processing</h3>
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week4/recreat4.png" width="500">
 </p>
 <p float='left'>
- Some other variations:
+ <h3> Some other variations: </h3>
   </br>
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week4/recreat7.png" height="300">
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week4/recreat6.png" height="300">
@@ -71,7 +72,7 @@ Development Environment: p5
 
 ## Week5: Pixels
 <p float='left'>
-  LEFT: orginal artwork; RIHGT: recreation in 3D
+  LEFT: orginal artwork; RIHGT: recreation in Processing
   </br>
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/thekiss.jpeg" width="500">
   <img src="https://github.com/HeidiHe/RecreatingThePast/blob/main/week5/recreat1.png" width="500">
